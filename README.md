@@ -1,4 +1,4 @@
-💊 Pharmacy Management System using Python
+;💊 Pharmacy Management System using Python
 
 A desktop-based Pharmacy Management System built using Python, Tkinter, and MySQL.
 This project helps manage medicine records, user orders, stock details, and pharmacy operations through a simple GUI interface.
